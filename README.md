@@ -11,3 +11,5 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 Teste do git stash
 
 Mensagem para o meu stash
+
+Teste git commit --fixup
