@@ -18,3 +18,5 @@ Teste git commit --fixup
 commit 2
 
 commit 1
+
+commit 3
