@@ -13,3 +13,5 @@ Teste do fixup + correção do fixup
 
 new commit 2
 
+commit 2
+
