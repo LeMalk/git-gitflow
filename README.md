@@ -8,6 +8,18 @@ html5up.net | @ajlkn
 
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+Teste do git stash
+
+Mensagem para o meu stash
+
+Teste git commit --fixup
+
+
+commit 2
+
+commit 1
+
+commit 3
 
 Teste do fixup + correção do fixup
 
