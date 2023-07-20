@@ -1,3 +1,4 @@
+
 # Título da Issue
 
 ## Descrição
@@ -41,3 +42,4 @@ Qualquer informação adicional que você deseja incluir.
 ## Tags
 
 Adicione tags relevantes para categorizar a issue, como "bug", "melhoria", "documentação", entre outras.
+
