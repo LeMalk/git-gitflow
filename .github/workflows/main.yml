@@ -1,0 +1,17 @@
+name: Exemplo de GitHub Actions
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  exemplo-job:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do repositório
+      uses: actions/checkout@v2
+
+    - name: Imprimir mensagem
+      run: echo "Olá, mundo! Essa é uma ação do GitHub Actions."
