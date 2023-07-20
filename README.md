@@ -14,4 +14,7 @@ Mensagem para o meu stash
 
 Teste git commit --fixup
 
+
 commit 2
+
+commit 1
